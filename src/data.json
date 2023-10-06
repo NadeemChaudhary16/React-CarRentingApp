@@ -1,0 +1,231 @@
+{
+  "data": {
+    "BMW": [
+      {
+        "id": "X7",
+        "name": "BMW X7",
+        "price": "10000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/X7/10571/1689673096346/front-left-side-47.jpg?tr=w-456",
+        "description": "Diesel/Petrol  11.29 to 14.31 kmpl Automatic",
+        "year": "2021"
+      },
+      {
+        "id": "X5",
+        "name": "BMW X5",
+        "price": "9000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/X5-2023/10452/1688992642182/front-left-side-47.jpg?tr=w-456",
+        "description": "Diesel/Petrol 12.0 kmpl Automatic",
+        "year": "2022"
+      },
+      {
+        "id": "Z4",
+        "name": "BMW Z4",
+        "price": "8500",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/Z4/10183/1685003672330/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol Automatic",
+        "year": "2023"
+      },
+      {
+        "id": "X1",
+        "name": "BMW X1",
+        "price": "8000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/X1/10064/1683261436040/front-left-side-47.jpg?tr=w-456",
+        "description": "Diesel/Petrol 16.35 to 20.37 kmpl Automatic",
+        "year": "2023"
+      },
+      {
+        "id": "XM",
+        "name": "BMW XM",
+        "price": "9000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/XM/10570/1689672872537/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol 61.9 kmpl Automatic",
+        "year": "2023"
+      },
+      {
+        "id": "X3",
+        "name": "BMW X3",
+        "price": "7500",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/X3/9776/1680242353464/front-left-side-47.jpg?tr=w-456",
+        "description": "Diesel/Petrol 16.55 kmpl Automatic",
+        "year": "2020"
+      },
+      {
+        "id": "i7",
+        "name": "BMW i7",
+        "price": "12000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/i7/8972/1675664292256/front-left-side-47.jpg?tr=w-456",
+        "description": "Electric Automatic",
+        "year": "2023"
+      },
+      {
+        "id": "iX1",
+        "name": "BMW iX1",
+        "price": "6500",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/iX1/9127/1695967266489/front-left-side-47.jpg?tr=w-456",
+        "description": "Electric Automatic",
+        "year": "2022"
+      },
+      {
+        "id": "3Series",
+        "name": "BMW 3 Series",
+        "price": "7900",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/3-Series/10574/1689667781970/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol 13.02 kmpl Automatic",
+        "year": "2019"
+      }
+    ],
+
+    "Audi": [
+      {
+        "id": "Q5",
+        "name": "Audi Q5",
+        "price": "6700",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Q5/10556/1689594416925/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol 13.47 kmpl Automatic",
+        "year": "2022"
+      },
+      {
+        "id": "A4",
+        "name": "Audi A4",
+        "price": "5600",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/A4/10548/1689591781105/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol Automatic",
+        "year": "2021"
+      },
+      {
+        "id": "Q7",
+        "name": "Audi Q7",
+        "price": "5500",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Q7/10558/1689594791308/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol 11.21 kmpl Automatic",
+        "year": "2019"
+      },
+      {
+        "id": "Q3",
+        "name": "Audi Q3",
+        "price": "6400",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Q3/10554/1689594073657/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol Automatic",
+        "year": "2022"
+      },
+      {
+        "id": "Rs5",
+        "name": "Audi RS5",
+        "price": "12000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/RS5/10563/1689595080319/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol 8.8 kmpl Automatic",
+        "year": "2023"
+      },
+      {
+        "id": "GT",
+        "name": "Audi e-tron GT",
+        "price": "13000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/e-tron-GT/8340/1678098767884/front-left-side-47.jpg?tr=w-456",
+        "description": "Electric Automatic",
+        "year": "2019"
+      }
+    ],
+
+    "Rolls-Royce": [
+      {
+        "id": "Phantom",
+        "name": "Rolls-Royce Phantom",
+        "price": "15000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Rolls-Royce/Rolls-Royce-Phantom/7783/1587206758888/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol 9.8 kmpl Automatic",
+        "year": "2023"
+      },
+      {
+        "id": "Ghost",
+        "name": "Rolls-Royce Ghost",
+        "price": "16000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Rolls-Royce/Ghost/8051/1601280317407/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol 6.33 kmpl Automatic",
+        "year": "2022"
+      },
+      {
+        "id": "Cullinan",
+        "name": "Rolls-Royce Cullinan",
+        "price": "16000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Rolls-Royce/Rolls-Royce-Cullinan/6405/1556533266269/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol 9.5 kmpl Automatic",
+        "year": "2023"
+      },
+      {
+        "id": "Wraith",
+        "name": "Rolls Royce Wraith",
+        "price": "16500",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Rolls-Royce/Rolls-Royce-Wraith/6398/1595835409056/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol 10.2 kmpl Automatic",
+        "year": "2021"
+      },
+      {
+        "id": "Dawn",
+        "name": "Rolls Royce Dawn",
+        "price": "1700",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Rolls-Royce/Rolls-Royce-Dawn/4289/1556525892112/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol Automatic",
+        "year": "2023"
+      },
+      {
+        "id": "Spectre",
+        "name": "Rolls-Royce Spectre",
+        "price": "20000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Rolls-Royce/Spectre/11100/1694411836068/front-left-side-47.jpg?tr=w-456",
+        "description": "Not Launched",
+        "year": "2024"
+      }
+    ],
+
+    "Ferrari": [
+      {
+        "id": "SF90",
+        "name": "Ferrari SF90 Stradale",
+        "price": "21000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Ferrari/SF90-Stradale/7858/1591619661237/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol Automatic",
+        "year": "2021"
+      },
+      {
+        "id": "Roma",
+        "name": "Ferrari Roma",
+        "price": "15000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Ferrari/Roma/7857/1591619120027/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol 8.93 kmpl Automatic",
+        "year": "2019"
+      },
+      {
+        "id": "GTB",
+        "name": "Ferrari 296 GTB",
+        "price": "17000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Ferrari/296-GTB/9306/1662555237288/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol Automatic",
+        "year": "2022"
+      },
+      {
+        "id": "Tributo",
+        "name": "Ferrari F8 Tributo",
+        "price": "18000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Ferrari/F8-Tributo/7945/1598599471404/front-left-side-47.jpg?tr=w-456",
+        "description": "Petrol Automatic",
+        "year": "2022"
+      },
+      {
+        "id": "812",
+        "name": "Ferrari 812",
+        "price": "19000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Ferrari/812/7859/1591619494883/front-left-side-47.jpg?tr=w-456",
+        "description": "PetrolAutomatic",
+        "year": "2021"
+      },
+      {
+        "id": "Purosangue",
+        "name": "Ferrari Purosangue",
+        "price": "19000",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Ferrari/Purosangue/9317/1663156716477/front-left-side-47.jpg?tr=w-456",
+        "description": "Not Launched",
+        "year": "2024"
+      }
+    ]
+  }
+}
